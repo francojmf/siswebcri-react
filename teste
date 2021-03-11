@@ -1,0 +1,89 @@
+[33mcommit 1192e58df4574dcf01f61eb14ca9598ef1203258[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: joao.franco <francojmf31@gmail.com>
+Date:   Thu Mar 11 19:37:45 2021 -0300
+
+    first commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..491d701[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,77 @@[m
+[32m+[m
+[32m+[m[32m# Kishore Shop[m
+[32m+[m[32m[Website](https://kishore-shop.herokuapp.com/)[m
+[32m+[m
+[32m+[m
+[32m+[m[32m## Features[m
+[32m+[m
+[32m+[m[32m* Full featured shopping cart[m
+[32m+[m[32m* Product reviews and ratings[m
+[32m+[m[32m* Top products carousel[m
+[32m+[m[32m* Product pagination[m
+[32m+[m[32m* Product search feature[m
+[32m+[m[32m* User profile with orders[m
+[32m+[m[32m* Admin product management[m
+[32m+[m[32m* Admin user management[m
+[32m+[m[32m* Admin Order details page[m
+[32m+[m[32m* Mark orders as delivered option[m
+[32m+[m[32m* Checkout process (shipping, payment method, etc)[m
+[32m+[m[32m* PayPal / credit card integration[m
+[32m+[m[32m* Custom database seeder script[m
+[32m+[m
+[32m+[m
+[32m+[m[32m## Tools and Technologies[m
+[32m+[m
+[32m+[m[32m* React with Functional Components & Hooks[m
+[32m+[m[32m* React router[m
+[32m+[m[32m* React-Bootstrap UI library[m
+[32m+[m[32m* How to structure components[m
+[32m+[m[32m* Component level state & props[m
+[32m+[m[32m* Managing global state with Redux (Actions & Reducers)[m
+[32m+[m[32m* Using Redux state in components (useDispatch & useSelector)[m
+[32m+[m[32m* Creating an extensive back end with Express[m
+[32m+[m[32m* Working with a MongoDB database and the Mongoose ODM[m
+[32m+[m[32m* JWT authentication (JSON web tokens)[m
+[32m+[m[32m* Creating custom authentication middleware[m
+[32m+[m[32m* Custom error handler[m
+[32m+[m[32m* Integrating the PayPal API[m
+[32m+[m[32m* Environment variables[m
+[32m+[m
+[32m+[m[32m## Screenshots[m
+[32m+[m
+[32m+[m
+[32m+[m[32m![home](https://user-images.githubusercontent.com/39863835/106387091-49744180-6402-11eb-9083-7ae67f0bc51a.png)[m
+[32m+[m
+[32m+[m[32m![review-page](https://user-images.githubusercontent.com/39863835/106387098-53964000-6402-11eb-98cb-bdd42952fc6b.png)[m
+[32m+[m
+[32m+[m[32m![cart](https://user-images.githubusercontent.com/39863835/106387110-5bee7b00-6402-11eb-9d94-b98256cbd660.jpg)[m
+[32m+[m
+[32m+[m[32m![shipping](https://user-images.githubusercontent.com/39863835/106387135-850f0b80-6402-11eb-9df2-45f596049bb7.jpg)[m
+[32m+[m
+[32m+[m[32m![payment-method](https://user-images.githubusercontent.com/39863835/106387149-98ba7200-6402-11eb-89da-1df09d90b062.jpg)[m
+[32m+[m
+[32m+[m[32m![place-order](https://user-images.githubusercontent.com/39863835/106387157-9eb05300-6402-11eb-9fa5-e1924024e139.jpg)[m
+[32m+[m
+[32m+[m[32m![payment-system](https://user-images.githubusercontent.com/39863835/106387168-ad970580-6402-11eb-9d9a-785b7ccca87c.jpg)[m
+[32m+[m
+[32m+[m[32m![paypal-cart](https://user-images.githubusercontent.com/39863835/106387170-b12a8c80-6402-11eb-877f-3473bbd963c6.jpg)[m
+[32m+[m
+[32m+[m[32m![payment-paid-by-customer](https://user-images.githubusercontent.com/39863835/106387176-b8519a80-6402-11eb-9cfd-4bd8068c411e.jpg)[m
+[32m+[m
+[32m+[m[32m![orderlist-check](https://user-images.githubusercontent.com/39863835/106387186-cbfd0100-6402-11eb-995a-4a21bd2ad3ef.jpg)[m
+[32m+[m
+[32m+[m[32m![confirm-delivered](https://user-images.githubusercontent.com/39863835/106387191-d4edd280-6402-11eb-94e2-e4b53c36dcc6.jpg)[m
+[32m+[m
+[32m+[m[32m![delivered-confirm](https://user-images.githubusercontent.com/39863835/106387195-da4b1d00-6402-11eb-9029-6178bd4288e5.jpg)[m
+[32m+[m
+[32m+[m[32m![customer-profile](https://user-images.githubusercontent.com/39863835/106387203-e46d1b80-6402-11eb-9c06-0b4d03302317.jpg)[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m### Thank you for visiting my github profile... If you want to know more about me. You can contact with me.[m
+[32m+[m
+[32m+[m[32m### [Portfolio-site](https://nahidul.netlify.app/)[m
+[32m+[m
+[32m+[m[32m### Email: nahidkishore99@gmail.com[m
+[32m+[m[32m### Phone: +8801776180002[m
+[32m+[m[32m### Address: Dhaka, Bangladesh[m

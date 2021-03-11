@@ -26,7 +26,7 @@ const PlaceOrderScreen = () => {
       dispatch({ type: USER_DETAILS_RESET });
       dispatch({ type: ORDER_CREATE_RESET });
     }
-    // eslint-disable-next-line
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [history, success]);
   const placeOrderHandler = () => {
     dispatch(
@@ -35,7 +35,7 @@ const PlaceOrderScreen = () => {
         entity: cart.entity,
         cpf_cnpj: cart.cpf_cnpj,
         shippingAddress: cart.shippingAddress,
-        shippingPrice: cart.shippingPrice,
+        // shippingPrice: cart.shippingPrice,
       })
     );
   };
